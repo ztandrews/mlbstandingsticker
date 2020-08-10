@@ -20,8 +20,7 @@ FUTURE BUG FIXES
 
 ABOUT THE PROJECT
 Hello all! My name is Zach Andrews, a computer science student at Monmouth University.
-This program was made to help me work with Python, API's, JSon data, and Tkinter.
-I consider myself an 'eternal learner', and a way i do this  is by doing these small projects. 
+This program was made to help me work with Python, API's, JSon data, and Tkinter. 
 While this project isn't too fancy or good looking, it is a big step in my dev career, as
 I aspire to do things like this in the real world eventually.
 
